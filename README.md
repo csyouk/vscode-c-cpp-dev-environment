@@ -47,3 +47,7 @@ ID: cheshirekow.cmake-format
 게시자: cheshirekow
 VS Marketplace 링크: https://marketplace.visualstudio.com/items?itemName=cheshirekow.cmake-format
 ```
+
+vscode 설정
+- Ctrl + Shift + P , c/c++ 구성, 컴파일러 선택
+- Ctrl + K, Ctrl + S , cmake 빌드/실행  단축키 설정
