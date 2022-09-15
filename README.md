@@ -10,3 +10,13 @@ https://code.visualstudio.com/docs/getstarted/keybindings
 
 디버깅
 https://webnautes.tistory.com/1158
+
+vscode 에서 설치해야할 extension들
+- 이름: C/C++
+ID: ms-vscode.cpptools
+설명: C/C++ IntelliSense, debugging, and code browsing.
+버전: 1.12.4
+게시자: Microsoft
+VS Marketplace 링크: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+
+- 
